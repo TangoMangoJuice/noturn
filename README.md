@@ -1,2 +1,2 @@
 # noturn
-vulnerability checker written in c++
+this code is used to find vulnerabilities in software
